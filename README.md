@@ -8,7 +8,7 @@ This is a project for the 'Learn React' course from Scrimba.
 
 ### Links
 
-- Live Site URL: [https://cl4ram.github.io/airbnb-clone/](https://cl4ram.github.io/airbnb-clone/)
+- Live Site URL: [https://dazzling-travesseiro-866ba6.netlify.app/](https://dazzling-travesseiro-866ba6.netlify.app/)
 
 ## My process
 
